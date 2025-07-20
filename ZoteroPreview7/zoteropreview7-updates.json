@@ -3,7 +3,7 @@
       "zoteropreview@carter-tod.com": {
         "updates": [
           {
-            "version": "0.8.2",
+            "version": "0.8.3",
             "update_link": "https://raw.githubusercontent.com/dcartertod/zotero-plugins/main/ZoteroPreview7.xpi",
             "applications": {
               "zotero": {

@@ -12,9 +12,8 @@ function install() {
 }
 
 async function startup({ id, version, rootURI }) {
-	log("Starting " + version);
-	Zotero.debug("Starting " + version);
-	return;
+        log("Starting " + version);
+        Zotero.debug("Starting " + version);
 	
 	Zotero.debug("load sub script " + version);
 	Services.scriptloader.loadSubScript(rootURI + 'zoteropreview.js');
